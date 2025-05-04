@@ -11,11 +11,10 @@ A user-friendly desktop calculator application built with **Java Swing**. This c
 - ✅ User-friendly GUI using Java Swing
 - ✅ Includes sound effects for number buttons
 
-## 🎥 Demo
 
 ## 🎥 Demo Video
 
-👉 [Click here to watch the demo](https://github.com/SameerDevHub/Smart-Calculator/tree/main/src/Demo/demo.mp4)
+[▶️ Click here to watch the demo](https://github.com/SameerDevHub/Smart-Calculator/blob/main/src/Demo/demo.mp4?raw=true)
 
 
 ## 🛠️ Tech Stack
