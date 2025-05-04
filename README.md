@@ -13,7 +13,10 @@ A user-friendly desktop calculator application built with **Java Swing**. This c
 
 ## 🎥 Demo
 
-![Demo Vedio](src/Demo/demo.mp4)
+## 🎥 Demo Video
+
+👉 [Click here to watch the demo](https://github.com/SameerDevHub/Smart-Calculator/tree/main/src/Demo/demo.mp4)
+
 
 ## 🛠️ Tech Stack
 
