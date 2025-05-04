@@ -57,15 +57,12 @@ public class AdvancedCalculator extends JFrame implements ActionListener {
         if (command.equals("=")) {
             calculate();
         } else if (command.equals("C")) {
-        	playSound(command);
             textField.setText("");
         } else if (command.equals("←")) {
-        	playSound("back");
             if (textField.getText().length() > 0) {
                 textField.setText(textField.getText().substring(0, textField.getText().length() - 1));
             }
         } else if (command.equals("%")) {
-        	playSound("perc");
             calculatePercentage();
         } else {
             if (command.matches("\\d")) {
