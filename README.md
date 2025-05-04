@@ -13,7 +13,7 @@ A user-friendly desktop calculator application built with **Java Swing**. This c
 
 ## 🎥 Demo
 
-![Demo Vedio](Demo/demo.mp4)
+![Demo Vedio](src/Demo/demo.mp4)
 
 ## 🛠️ Tech Stack
 
